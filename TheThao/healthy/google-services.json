@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "952862352377",
+    "firebase_url": "https://apptd-2305d-default-rtdb.firebaseio.com",
+    "project_id": "apptd-2305d",
+    "storage_bucket": "apptd-2305d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952862352377:android:4efdaa916be76a05af1328",
+        "android_client_info": {
+          "package_name": "com.whatever.healthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952862352377-8ebs5gb6jobed6tell5vqch7um9gjuec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5L_mjU-U5MITDbAAbTzydTSLMsjT5iBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952862352377-8ebs5gb6jobed6tell5vqch7um9gjuec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

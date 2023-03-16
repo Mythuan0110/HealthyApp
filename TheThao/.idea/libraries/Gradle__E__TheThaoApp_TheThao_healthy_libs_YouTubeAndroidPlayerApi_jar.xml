@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: E./TheThaoApp/TheThao/healthy/libs/YouTubeAndroidPlayerApi.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/healthy/libs/YouTubeAndroidPlayerApi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

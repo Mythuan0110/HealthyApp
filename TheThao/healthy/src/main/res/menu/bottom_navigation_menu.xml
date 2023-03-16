@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/diary"
+        android:icon="@drawable/ic_baseline_eco_24"
+        android:visible="true"
+        android:title="Nhật ký hôm nay">
+    </item>
+
+
+    <item
+        android:id="@+id/exercises"
+        android:visible="true"
+        android:icon="@drawable/ic_baseline_emoji_people_24"
+        android:title="Tập luyện">
+
+    </item>
+
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_calendar_month_24"
+        android:visible="true"
+        android:title="Lịch sử">
+    </item>
+
+
+
+    <item
+        android:id="@+id/charts"
+        android:icon="@drawable/ic_baseline_pie_chart_24"
+        android:visible="true"
+        android:title="Thống kê số liệu">
+    </item>
+
+
+
+    <item
+        android:id="@+id/me"
+        android:icon="@drawable/ic_baseline_density_medium_24"
+        android:visible="true"
+        android:title="Settings">
+    </item>
+
+</menu>
